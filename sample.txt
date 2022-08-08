@@ -1,7 +1,9 @@
 This is my Sample code. This is for learning Git.
 
-Git Commands I learnt today
-
-1)Git init
-2)Git add
-3)Git Commit
+<html>
+<head>
+<body>
+<h1> OK, go ahead with Git learning at the earliest coming week we planing for a demo.</h1>
+<body>
+</head>
+</html>
